@@ -5,3 +5,5 @@ I will be attempting to learn rust through this but you may find I fall back on 
 
 
 My solutions are probably very inefficient :)
+
+To run each day's solution, enter the respective day's directory and run `cargo run`
